@@ -2,6 +2,6 @@
 {
     public class Teacher
     {
-        public Department department { get; set; }
+        public Department Department { get; set; }
     }
 }
