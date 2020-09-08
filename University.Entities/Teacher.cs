@@ -1,6 +1,6 @@
-﻿namespace University
+﻿namespace University.Entities
 {
-    public class Teacher
+    public class Teacher : Entity
     {
         public Department Department { get; set; }
     }
