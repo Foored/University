@@ -1,8 +1,7 @@
 ﻿namespace University.Entities
 {
-    public class Student : Entity
+    public class Student : Person
     {
-        public int DepartmentId { get; set; }
-        public Department Department { get; set; }
+        
     }
 }
